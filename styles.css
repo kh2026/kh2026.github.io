@@ -1,0 +1,57 @@
+
+
+.blue
+{
+    color: blue;
+}
+
+body
+{
+    background-color: lightblue;
+}
+
+header
+{
+    text-align: center;
+    font-size: large;
+    padding: 20px;
+    border-style: solid;
+
+}
+
+
+body
+{
+    text-align: left;
+    font-size: medium;
+}
+
+footer
+{
+    float: right;
+    font-size: small;
+}
+
+
+table, th, td
+{
+    border: 1px solid black;
+}
+
+pre
+{
+    color: gray;
+}
+
+select
+{
+    margin-bottom: 100px;
+}
+
+table
+{
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
